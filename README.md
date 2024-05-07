@@ -1,3 +1,10 @@
+# Nlw Expert Note
+
+<div align="center" >
+    <img width="725rem" src="https://servidor-estaticos-ten.vercel.app/expert.png" alt="imagem">
+</div>
+
+> Para ver o projeto rodando você pode acessar este [Link](https://nlw-expert-note-seven.vercel.app/).
 <h2>👨‍🏫 Créditos</h2>
 <p>Este projeto foi realizado nas aulas da Rocketseat 
 
